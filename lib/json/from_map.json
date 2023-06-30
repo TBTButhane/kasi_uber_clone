@@ -1,0 +1,760 @@
+{
+    "plus_code": {
+        "compound_code": "J76C+F8J Kudube, South Africa",
+        "global_code": "5G6CJ76C+F8J"
+    },
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "4071",
+                    "short_name": "4071",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Umhlobiso street",
+                    "short_name": "Umhlobiso St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Kudube Unit 1",
+                    "short_name": "Kudube Unit 1",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Temba",
+                    "short_name": "Temba",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "City of Tshwane Metropolitan Municipality",
+                    "short_name": "City of Tshwane Metropolitan Municipality",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Gauteng",
+                    "short_name": "GP",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "South Africa",
+                    "short_name": "ZA",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "0407",
+                    "short_name": "0407",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "4071 Umhlobiso St, Kudube Unit 1, Temba, 0407, South Africa",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -25.3894053,
+                        "lng": 28.2715836
+                    },
+                    "southwest": {
+                        "lat": -25.3895337,
+                        "lng": 28.2714436
+                    }
+                },
+                "location": {
+                    "lat": -25.3894745,
+                    "lng": 28.2715168
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": -25.3881205197085,
+                        "lng": 28.2728625802915
+                    },
+                    "southwest": {
+                        "lat": -25.3908184802915,
+                        "lng": 28.2701646197085
+                    }
+                }
+            },
+            "place_id": "ChIJwcIsNWrAvx4RXSdOxrmSSDs",
+            "types": [
+                "premise"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "J76C+F8",
+                    "short_name": "J76C+F8",
+                    "types": [
+                        "plus_code"
+                    ]
+                },
+                {
+                    "long_name": "Kudube",
+                    "short_name": "Kudube",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "City of Tshwane Metropolitan Municipality",
+                    "short_name": "City of Tshwane Metropolitan Municipality",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Gauteng",
+                    "short_name": "GP",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "South Africa",
+                    "short_name": "ZA",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "0400",
+                    "short_name": "0400",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "J76C+F8 Kudube, South Africa",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -25.38875,
+                        "lng": 28.270875
+                    },
+                    "southwest": {
+                        "lat": -25.388875,
+                        "lng": 28.27075
+                    }
+                },
+                "location": {
+                    "lat": -25.3887762,
+                    "lng": 28.2707516
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": -25.38746351970849,
+                        "lng": 28.2721614802915
+                    },
+                    "southwest": {
+                        "lat": -25.3901614802915,
+                        "lng": 28.2694635197085
+                    }
+                }
+            },
+            "place_id": "GhIJkXZI1oZjOcAR9VYT-k9FPEA",
+            "plus_code": {
+                "compound_code": "J76C+F8 Kudube, South Africa",
+                "global_code": "5G6CJ76C+F8"
+            },
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "594",
+                    "short_name": "594",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Mulanguteri Street",
+                    "short_name": "Mulanguteri St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Kudube Unit 1",
+                    "short_name": "Kudube Unit 1",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Kudube",
+                    "short_name": "Kudube",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "City of Tshwane Metropolitan Municipality",
+                    "short_name": "City of Tshwane Metropolitan Municipality",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Gauteng",
+                    "short_name": "GP",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "South Africa",
+                    "short_name": "ZA",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "0400",
+                    "short_name": "0400",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "594 Mulanguteri St, Kudube Unit 1, Kudube, 0400, South Africa",
+            "geometry": {
+                "location": {
+                    "lat": -25.3891723,
+                    "lng": 28.2711704
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": -25.3878233197085,
+                        "lng": 28.2725193802915
+                    },
+                    "southwest": {
+                        "lat": -25.3905212802915,
+                        "lng": 28.2698214197085
+                    }
+                }
+            },
+            "place_id": "Ej01OTQgTXVsYW5ndXRlcmkgU3QsIEt1ZHViZSBVbml0IDEsIEt1ZHViZSwgMDQwMCwgU291dGggQWZyaWNhIhsSGQoUChIJ5Ux7K2rAvx4Rep_c0noewu8Q0gQ",
+            "types": [
+                "street_address"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Umhlobiso street",
+                    "short_name": "Umhlobiso St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Kudube Unit 1",
+                    "short_name": "Kudube Unit 1",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Kudube",
+                    "short_name": "Kudube",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "City of Tshwane Metropolitan Municipality",
+                    "short_name": "City of Tshwane Metropolitan Municipality",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Gauteng",
+                    "short_name": "GP",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "South Africa",
+                    "short_name": "ZA",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "0400",
+                    "short_name": "0400",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Umhlobiso St, Kudube Unit 1, Kudube, 0400, South Africa",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -25.3883169,
+                        "lng": 28.271003
+                    },
+                    "southwest": {
+                        "lat": -25.390437,
+                        "lng": 28.269169
+                    }
+                },
+                "location": {
+                    "lat": -25.3893187,
+                    "lng": 28.2699539
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": -25.3880279697085,
+                        "lng": 28.2714349802915
+                    },
+                    "southwest": {
+                        "lat": -25.3907259302915,
+                        "lng": 28.2687370197085
+                    }
+                }
+            },
+            "place_id": "ChIJZbvEfWnAvx4REouUGmDPHJE",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Kudube Unit 1",
+                    "short_name": "Kudube Unit 1",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Kudube",
+                    "short_name": "Kudube",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "City of Tshwane Metropolitan Municipality",
+                    "short_name": "City of Tshwane Metropolitan Municipality",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Gauteng",
+                    "short_name": "GP",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "South Africa",
+                    "short_name": "ZA",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "0400",
+                    "short_name": "0400",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Kudube Unit 1, Kudube, 0400, South Africa",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -25.380148,
+                        "lng": 28.275139
+                    },
+                    "southwest": {
+                        "lat": -25.3973518,
+                        "lng": 28.2563528
+                    }
+                },
+                "location": {
+                    "lat": -25.3903465,
+                    "lng": 28.2672801
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": -25.380148,
+                        "lng": 28.275139
+                    },
+                    "southwest": {
+                        "lat": -25.3973518,
+                        "lng": 28.2563528
+                    }
+                }
+            },
+            "place_id": "ChIJT_NluGjAvx4RUHOz-ICxXJc",
+            "types": [
+                "political",
+                "sublocality",
+                "sublocality_level_1"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Kudube",
+                    "short_name": "Kudube",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "City of Tshwane Metropolitan Municipality",
+                    "short_name": "City of Tshwane Metropolitan Municipality",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Gauteng",
+                    "short_name": "GP",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "South Africa",
+                    "short_name": "ZA",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "0400",
+                    "short_name": "0400",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Kudube, 0400, South Africa",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -25.3584229,
+                        "lng": 28.275139
+                    },
+                    "southwest": {
+                        "lat": -25.3973518,
+                        "lng": 28.2294522
+                    }
+                },
+                "location": {
+                    "lat": -25.3702062,
+                    "lng": 28.2468148
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": -25.3584229,
+                        "lng": 28.275139
+                    },
+                    "southwest": {
+                        "lat": -25.3973518,
+                        "lng": 28.2294522
+                    }
+                }
+            },
+            "place_id": "ChIJBTMNtz6_vx4R7-_6ygicI_w",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "0400",
+                    "short_name": "0400",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "City of Tshwane Metropolitan Municipality",
+                    "short_name": "City of Tshwane Metropolitan Municipality",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Gauteng",
+                    "short_name": "GP",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "South Africa",
+                    "short_name": "ZA",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "0400, South Africa",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -25.3584229,
+                        "lng": 28.2976029
+                    },
+                    "southwest": {
+                        "lat": -25.412516,
+                        "lng": 28.22963
+                    }
+                },
+                "location": {
+                    "lat": -25.3702062,
+                    "lng": 28.2468148
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": -25.3584229,
+                        "lng": 28.2976029
+                    },
+                    "southwest": {
+                        "lat": -25.412516,
+                        "lng": 28.22963
+                    }
+                }
+            },
+            "place_id": "ChIJz8t_dGXAvx4RTxQq6tmvj_A",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "City of Tshwane Metropolitan Municipality",
+                    "short_name": "City of Tshwane Metropolitan Municipality",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Gauteng",
+                    "short_name": "GP",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "South Africa",
+                    "short_name": "ZA",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "City of Tshwane Metropolitan Municipality, South Africa",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -25.1096099,
+                        "lng": 29.09842
+                    },
+                    "southwest": {
+                        "lat": -26.0780899,
+                        "lng": 27.8903501
+                    }
+                },
+                "location": {
+                    "lat": -25.6051205,
+                    "lng": 28.3929417
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": -25.1096099,
+                        "lng": 29.09842
+                    },
+                    "southwest": {
+                        "lat": -26.0780899,
+                        "lng": 27.8903501
+                    }
+                }
+            },
+            "place_id": "ChIJjVNCr-ravx4RPOYRWM0o7EU",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Gauteng",
+                    "short_name": "GP",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "South Africa",
+                    "short_name": "ZA",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Gauteng, South Africa",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -25.1096099,
+                        "lng": 29.0984187
+                    },
+                    "southwest": {
+                        "lat": -26.92383,
+                        "lng": 27.1563401
+                    }
+                },
+                "location": {
+                    "lat": -26.2707593,
+                    "lng": 28.1122679
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": -25.1096099,
+                        "lng": 29.0984187
+                    },
+                    "southwest": {
+                        "lat": -26.92383,
+                        "lng": 27.1563401
+                    }
+                }
+            },
+            "place_id": "ChIJn3cRVJUSlR4R4jhUy8fnnm0",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "South Africa",
+                    "short_name": "ZA",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "South Africa",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -22.1254239,
+                        "lng": 38.2216904
+                    },
+                    "southwest": {
+                        "lat": -47.1313489,
+                        "lng": 16.2816999
+                    }
+                },
+                "location": {
+                    "lat": -30.559482,
+                    "lng": 22.937506
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": -22.1254239,
+                        "lng": 38.2216904
+                    },
+                    "southwest": {
+                        "lat": -47.1313489,
+                        "lng": 16.2816999
+                    }
+                }
+            },
+            "place_id": "ChIJURLu2YmmNBwRoOikHwxjXeg",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "status": "OK"
+}

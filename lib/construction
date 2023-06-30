@@ -1,0 +1,54 @@
+ Container(
+                                        margin: index == 0
+                                            ? EdgeInsets.only(right: 5, top: 45)
+                                            : index == 1
+                                                ? EdgeInsets.only(
+                                                    right: 5, top: 45)
+                                                : EdgeInsets.only(top: 45),
+                                        padding: index == 0
+                                            ? EdgeInsets.only(top: 25)
+                                            : index == 1
+                                                ? EdgeInsets.only(top: 25)
+                                                : EdgeInsets.only(top: 25),
+                                        height: 45,
+                                        width: 100,
+                                        decoration: BoxDecoration(
+                                            color: Colors.white,
+                                            borderRadius: BorderRadius.only(
+                                                topLeft: Radius.circular(20),
+                                                bottomRight:
+                                                    Radius.circular(15),
+                                                bottomLeft:
+                                                    Radius.circular(5))),
+                                        child: Text(
+                                          index == 0
+                                              ? "Economy"
+                                              : index == 1
+                                                  ? "Premium"
+                                                  : "Party Bus",
+                                          style: TextStyle(
+                                              color: Colors.black,
+                                              fontWeight: FontWeight.bold,
+                                              fontSize: 18),
+                                        )),
+                                    selected == index
+                                        ? Image(
+                                            height: 10,
+                                            width: 10,
+                                            fit: BoxFit.cover,
+                                            image: AssetImage(index == 0
+                                                ? "assets/images/Economy2.png"
+                                                : index == 1
+                                                    ? "assets/images/Premium4.png"
+                                                    : "assets/images/PartyBus2.png"),
+                                          )
+                                        : Image(
+                                            height: 85,
+                                            width: 100,
+                                            fit: BoxFit.cover,
+                                            image: AssetImage(index == 0
+                                                ? "assets/images/Economy2.png"
+                                                : index == 1
+                                                    ? "assets/images/Premium4.png"
+                                                    : "assets/images/PartyBus2.png"),
+                                          )

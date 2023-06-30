@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "58899817732",
+    "project_id": "lok-taxi",
+    "storage_bucket": "lok-taxi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58899817732:android:e4a7607e5a6614b7f21c51",
+        "android_client_info": {
+          "package_name": "com.example.loction_taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58899817732-8j5bbjrjftjt2tbjb2ckcjrmebslvl3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loction_taxi",
+            "certificate_hash": "70640a731181ef2420b85d71d0b9ed41d7977085"
+          }
+        },
+        {
+          "client_id": "58899817732-nv8krapnra9227tctbl686mn9r0cb3ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI8ZesyrRiDscKIevyXnlArxeN7b1sibw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58899817732-nv8krapnra9227tctbl686mn9r0cb3ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
